@@ -1,8 +1,5 @@
 # 🧠 Simple Neural Network in C ⚙️
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l2JIm1br3ewcfx2Xm/giphy.gif" alt="Neural Network Animation" width="400"/>
-</div>
 
 <div align="center">
 
