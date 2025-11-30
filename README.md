@@ -4,7 +4,6 @@
 <div align="center">
 
 [![Language C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![made-with-love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://github.com/Anjas2005)
 
 </div>
 
